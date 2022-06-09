@@ -7,7 +7,6 @@ const App = () => {
 
   const updateCounter = () => {
     setCounter(counter + 1);
-    setCounter(counter + 1);
   };
 
   const doubledCounter = counter * 2;
