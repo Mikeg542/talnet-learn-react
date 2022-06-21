@@ -16,7 +16,7 @@ const App = () => {
       <button onClick={updateCounter}>Update Counter</button> {counter}
       <p>{`Twice Counter: ${doubledCounter}`}</p>
       <input type="checkbox" checked />
-      {/*counter >= 5 ? (
+      {counter >= 5 ? (
         <p>That's a lot of button pressing!</p>
       ) : (
         <p>Keep pressing that button!</p>
@@ -30,7 +30,7 @@ const App = () => {
             textAlign: "center",
           }}
         />
-      )*/}
+      )}
     </div>
   );
 };
