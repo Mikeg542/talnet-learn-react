@@ -21,3 +21,5 @@
 -   add button to sort A->Z / Z->A for the meal list
 
 -   Add an input field filter that hides categories that dont match the entered text (aka search Veg just displays vegetarian and vegan)
+
+Note: recommended package for API calls is axios
